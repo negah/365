@@ -1,0 +1,3 @@
+[submodule "themes/azar"]
+	path = themes/azar
+	url = https://github.com/negah/azar.git
